@@ -1,2 +1,2 @@
 # count
-Making python scripts
+Making  some simple scripts
